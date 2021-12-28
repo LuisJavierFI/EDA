@@ -1,5 +1,5 @@
 <h1 align="center"> Análisis Exploratorio de Datos </h1>
-<h2 align="center"> COVID en México y 
+<h2 align="center"> COVID en México </h2>
 El análisis exploratorio de datos (EDA) es un proceso no formal que sirve para analizar y
 resumir sus principales características de los datos con el fin de manipularlos para descubrir
 patrones, anomalías, contestar nuestras preguntas o reformular nuevamente.
