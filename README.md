@@ -9,5 +9,6 @@ que nos ayudan a tener una mejor comprensión de las variables del conjunto de d
 relaciones entre ellas, que de otra forma nos sería más difícil conocer nuestros datos.
 
 **Proceso básico de EDA.**
+
 Tener una idea de la estructura del conjunto de datos, identificar la variable objetivo y posibles
 técnicas de modelado.
