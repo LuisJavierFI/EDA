@@ -17,7 +17,7 @@ técnicas de modelado.
 </p>
 El objetivo durante el EDA es desarrollar un entendimiento de los datos.
 
-# Datos![ProcesoEDA](https://user-images.githubusercontent.com/47147891/147515605-f72b7bb9-ee99-4675-a3c6-1a688cab0356.jpg)
+# Datos
 
 ### **Contexto**
 
@@ -47,3 +47,6 @@ Datos recopilados de manera diaria a nivel país sobre la vacunación contra COV
 ## Conclusión 
 
 Una vez que se ha aplicado EDA es posible aplicar un algoritmo debido a que ya se ha realizado un estudio de nuestros datos por lo que tendremos un mejor desempeño al implementar un algoritmo. Además gracias al EDA podemos obtener un análisis visual y númerico lo cual nos permite conocer mejor nuestros datos  
+
+## Referencia
+https://www.kaggle.com/gpreda/covid-world-vaccination-progress
