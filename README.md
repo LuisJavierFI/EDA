@@ -12,3 +12,6 @@ relaciones entre ellas, que de otra forma nos sería más difícil conocer nuest
 
 Tener una idea de la estructura del conjunto de datos, identificar la variable objetivo y posibles
 técnicas de modelado.
+<p align='center'>
+  <a href="https://github.com/LuisJavierFI/EDA"><img src = "ProcesoEDA.JPG"  width = 500> </a>
+</p>
