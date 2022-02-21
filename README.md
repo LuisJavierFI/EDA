@@ -43,7 +43,7 @@ Datos recopilados de manera diaria a nivel país sobre la vacunación contra COV
 15. Nombre de la fuente: Fuente de la información.
 16. Sitio web de origen: Fuente de información.
 ## Código
-https://colab.research.google.com/drive/1uZU0_YgngkTbtd4YdXaJTxwHARUlcpoG?usp=sharing
+https://colab.research.google.com/drive/1LRBLVSyIo8Fo5eI3JV8e9q3UcRQIVl3B?usp=sharing
 ## Conclusión 
 
 Una vez que se ha aplicado EDA es posible aplicar un algoritmo debido a que ya se ha realizado un estudio de nuestros datos por lo que tendremos un mejor desempeño al implementar un algoritmo. Además gracias al EDA podemos obtener un análisis visual y númerico lo cual nos permite conocer mejor nuestros datos  
